@@ -5,5 +5,5 @@
 Para rodas esse proejto na sua maquina , por favor digite :
 
 ...
-nmp install
+node app.js
 ...
